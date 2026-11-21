@@ -1,0 +1,1 @@
+import{j as r}from"./index-DauplxlS.js";import{A as t}from"./AnalysisView-0qGZa3s6.js";/* empty css                    */import"./loader-circle-B01L_G0f.js";import"./positioning-BYqVWkk0.js";import"./file-search-BcVT5V2y.js";function u(){return r.jsx(t,{featureId:"structured-analysis"})}export{u as default};

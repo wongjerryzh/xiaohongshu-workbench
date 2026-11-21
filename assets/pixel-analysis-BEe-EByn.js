@@ -1,0 +1,1 @@
+import{j as i}from"./index-DauplxlS.js";import{A as r}from"./AnalysisView-0qGZa3s6.js";/* empty css                    */import"./loader-circle-B01L_G0f.js";import"./positioning-BYqVWkk0.js";import"./file-search-BcVT5V2y.js";function p(){return i.jsx(r,{featureId:"pixel-analysis"})}export{p as default};
